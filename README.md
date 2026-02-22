@@ -2,7 +2,6 @@
 
 ###
 
-<h2 align="left">Aspiring .NET Backend Developer</h2>
 
 ###
 
